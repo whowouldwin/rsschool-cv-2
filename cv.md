@@ -41,6 +41,18 @@
 * JavaScript Essential Training (11/2022)
 * JS/FE PRE-SCHOOL (03/2022)
 
+## Code Examples
+```
+function recursivePromise(promise) {
+    return promise.then(()=> {
+        console.log('promise 1');
+        recursivePromise(Promise.resolve())
+    })
+}
+recursivePromise(Promise.resolve())
+setTimeout(()=>console.log('timeout'))
+```
+
 ## Misc. Information
 
 * Languages: English (B1+), Polish, Russian
