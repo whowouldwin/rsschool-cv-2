@@ -1,12 +1,19 @@
+<div id="header">
+  <img align="left" src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="100"/>
+</div>
+
 
 # Junior Frontend Developer
+## Valeria Bessonova
+## How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Telegram Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin)
 
-## Executive Summary
+##  Executive Summary
 
 * I'm applying for the position of Front-End Developer associate with the requirements for L1 position.
 * Bachelor's degree in Programmable Mobile Systems
 * Completed numerous coding challenges on Codewars
 * I am an expert in visually interpreting information using mind maps and helping others better understand and retain information.
+* I’m currently learning: <img src="https://media.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif" width="30"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 
 ## Working Experience
 
@@ -16,7 +23,7 @@
 * I have worked in accounting-related roles and have experience solving accounting-related problems.
 
 
-## Projects
+## Projects 
 
 * [BotTee: Deploy](https://whowouldwin.github.io/PaymentForm/) - a project simulating payment and shipping (API, data management, testing )
 * [Flower Search](https://whowouldwin.github.io/FlowerSearch/) - a project including responsive layout, navigation, form, and Font Awesome.
@@ -37,4 +44,5 @@
 ## Misc. Information
 
 * Languages: English (B1+), Polish, Russian
+
 
