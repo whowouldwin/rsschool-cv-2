@@ -1,11 +1,11 @@
 <div id="header">
-  <img align="left" src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="100"/>
+  <img style="float: left" src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" alt="image" width="100"/>
 </div>
 
 
 # Junior Frontend Developer
 ## Valeria Bessonova
-## How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Telegram Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin)
+## How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin)
 
 ##  Executive Summary
 
