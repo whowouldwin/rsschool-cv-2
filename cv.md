@@ -1,12 +1,13 @@
-<div id="header">
-  <img style="float: left" src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" alt="image" width="100"/>
+<div style="" id="header">
+  <img style="float: left; margin-right: 30px; margin-top: 20px;border-radius: 5px; border: 2px solid yellow;" src="./lng/avatar.jpg" alt="image" width="100"/>
 </div>
-
 
 # Junior Frontend Developer
 ## Valeryia Bessonava
-## How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin)
 
+____________________________________________________________
+## How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin), [![Github Badge](https://img.shields.io/badge/-discord-red?color=violet&logo=discord&logoColor=white)](https://discordapp.com/users/@whowouldwin#2891)
+____________________________________________________________
 ##  Executive Summary
 
 1. [x] I'm applying for the position of Front-End Developer associate with the requirements for L1 position. 
