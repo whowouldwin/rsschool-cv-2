@@ -1,5 +1,5 @@
 
-<div style="" id="header">
+<div style="background: pink" id="header">
   <img style="float: left; margin-right: 25px; margin-top: 10px;margin-left:25px;border-radius: 5px; border: 2px solid dodgerblue;" src="./lng/avatar.jpg" alt="image" width="100"/>
 </div>
 
