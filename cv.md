@@ -10,7 +10,7 @@ ____________________________________________________________
 ____________________________________________________________
 ##  Executive Summary
 
-1. [x] I'm applying for the position of Front-End Developer associate with the requirements for L1 position. 
+- [x] I'm applying for the position of Front-End Developer associate with the requirements for L1 position. 
 2. [x] Bachelor's degree in Programmable Mobile Systems
 3. [x] Completed numerous coding challenges on Codewars platform
 4. [x] I am an expert in visually interpreting information using mind maps and helping others better understand and retain information.
