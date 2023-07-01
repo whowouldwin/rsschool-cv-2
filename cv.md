@@ -12,11 +12,11 @@ ____________________________________________________________
 ##  Executive Summary
 
 1. [x] <span> I'm applying for the position of Front-End Developer associate with the requirements for L1 position. </span>
-2. [x] Bachelor's degree in Programmable Mobile Systems
-3. [x] Completed numerous coding challenges on Codewars platform
-4. [x] I am an expert in visually interpreting information using mind maps and helping others better understand and retain information.
-5. [x] Skills and Proficiency: <img src="https://media.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif" width="30"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <img src="./lng/Emmet.png" width="30" alt="emmet">
-6. [x] I’m currently learning: <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30"> <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="30" alt="bootstrap"><img src="./lng/tailwindcss.png" width="30" alt="tailwind"><img src="./lng/materializeCSS.png" height="25" alt="materialize">
+2. [x] <span> Bachelor's degree in Programmable Mobile Systems </span>
+3. [x] <span> Completed numerous coding challenges on Codewars platform </span>
+4. [x] <span> I am an expert in visually interpreting information using mind maps and helping others better understand and retain information. </span>
+5. [x] <span> Skills and Proficiency: <img src="https://media.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif" width="30"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <img src="./lng/Emmet.png" width="30" alt="emmet"> </span>
+6. [x] <span> I’m currently learning: <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30"> <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="30" alt="bootstrap"><img src="./lng/tailwindcss.png" width="30" alt="tailwind"><img src="./lng/materializeCSS.png" height="25" alt="materialize"> </span>
 
 
 ## Working Experience
