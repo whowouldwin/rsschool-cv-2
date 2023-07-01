@@ -1,5 +1,5 @@
 <div style="" id="header">
-  <img style="float: left; margin-right: 30px; margin-top: 20px;border-radius: 5px; border: 2px solid dodgerblue;" src="./lng/avatar.jpg" alt="image" width="100"/>
+  <img style="float: left; margin-right: 25px; margin-top: 10px;margin-left:25px;border-radius: 5px; border: 2px solid dodgerblue;" src="./lng/avatar.jpg" alt="image" width="100"/>
 </div>
 
 # Junior Frontend Developer
@@ -10,7 +10,7 @@ ____________________________________________________________
 ____________________________________________________________
 ##  Executive Summary
 
-- [x] I'm applying for the position of Front-End Developer associate with the requirements for L1 position. 
+1. [x] I'm applying for the position of Front-End Developer associate with the requirements for L1 position. 
 2. [x] Bachelor's degree in Programmable Mobile Systems
 3. [x] Completed numerous coding challenges on Codewars platform
 4. [x] I am an expert in visually interpreting information using mind maps and helping others better understand and retain information.
