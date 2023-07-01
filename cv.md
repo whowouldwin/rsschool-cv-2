@@ -1,5 +1,5 @@
 <div style="" id="header">
-  <img style="float: left; margin-right: 30px; margin-top: 20px;border-radius: 5px; border: 2px solid yellow;" src="./lng/avatar.jpg" alt="image" width="100"/>
+  <img style="float: left; margin-right: 30px; margin-top: 20px;border-radius: 5px; border: 2px solid dodgerblue;" src="./lng/avatar.jpg" alt="image" width="100"/>
 </div>
 
 # Junior Frontend Developer
