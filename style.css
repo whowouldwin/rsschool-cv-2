@@ -127,7 +127,8 @@
     display: inline;
 }
 .timeline {
-    padding-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
