@@ -117,8 +117,48 @@
     color: var(--color-main);
     letter-spacing: 1px;
 }
+.right-main-content {
+    padding: 2rem 3rem;
+}
+.right-title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--color-hamburger);
+    display: inline;
+}
+.timeline {
+    padding-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.tl-company, .tl-title {
+    letter-spacing: 1px;
+    font-size: 1.3rem;
+    color: var(--color-hamburger);
+    text-transform: uppercase;
+    margin: 0;
+}
+.tl-title::before {
+    content: "";
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
 
+    background-color: var(--color-additional);
+    border-radius: 50%;
+    left: 0;
+    transform: translateX(-60%);
 
+}
+.tl-content{
+    border-left: 3px solid var(--color-additional);
+    padding-left: 2rem;
+    position: relative;
+}
+.tl-description {
+    margin: 0;
+    padding-bottom: 1.5rem;
+}
 
 
 
