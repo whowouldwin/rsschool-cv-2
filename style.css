@@ -4,3 +4,27 @@
     --color-hamburger: #333232;
     --content-width: 1197px;
 }
+.container {
+    margin: 0 auto;
+    width: 1280px;
+    overflow: hidden;
+}
+
+.header__container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: var(--color-hamburger);
+    text-transform: uppercase;
+}
+.header__photo {
+    background-image: url("./lng/avatar.png");
+    filter: contrast(110%);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: var(--color-additional);
+}
