@@ -13,6 +13,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&family=Red+Hat+Mono&display=swap"
         rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/solarized-dark.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js"></script>
 </head>
 <body>
 <header>
@@ -158,10 +160,30 @@
             </ol>
             <p> You can find detailed information about my additional education and courses on my  <a href="https://www.linkedin.com/in/whowouldwin" target="_blank"><i class="fa fa-linkedin"></i></a> profile.</p>
           </section>
+          <section class="code-example">
+            <h2 class="right-title">Code example:</h2>
+            <pre class="pre">
+              <code class="language-javascript">
+const promise = new Promise((resolve, reject) => {
+    let condition = true;
+    if(condition) {
+        resolve("Promise is resolved!");
+    } else {
+        reject("Promise is rejected!");
+    }
+});
+
+promise
+    .then(message => console.log(message))
+    .catch(error => console.error(error));
+</code>
+            </pre>
+          </section>
         </section>
       </div>
     </section>
   </main>
 </div>
+<script>hljs.highlightAll();</script>
 </body>
 </html>

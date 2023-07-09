@@ -198,7 +198,15 @@
     border-radius: 2em;
     transition: all .3s ease-out;
 }
-
+.code-example {
+    display: flex;
+    flex-direction: column;
+}
+.pre {
+    margin: 0;
+    align-self: center;
+    width: 100%;
+}
 
 
 
