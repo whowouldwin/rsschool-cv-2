@@ -207,8 +207,22 @@
     align-self: center;
     width: 100%;
 }
+.rounded a::after {
+    content: 'Click me';
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    opacity: 0;
+    color: #fff;
+    background-color: #000;
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: opacity 0.3s ease;
+}
 
-
+.rounded a:hover::after {
+    opacity: 1;
+}
 
 
 
