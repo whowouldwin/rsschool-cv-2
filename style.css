@@ -223,9 +223,18 @@
 .rounded a:hover::after {
     opacity: 1;
 }
-
-
-
+.info {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    border-bottom: 2px solid var(--color-additional-light);
+}
+.highlight {
+    background-color: var(--color-main);
+    line-height: 2rem;
+    padding-left: 1rem;
+    border-radius: 50px;
+}
 
 
 
