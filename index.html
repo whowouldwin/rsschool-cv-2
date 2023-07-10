@@ -9,14 +9,27 @@
   <title>CV</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&amp;family=Red+Hat+Mono&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&family=Red+Hat+Mono&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/solarized-dark.min.css">
   <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js"></script>
 </head>
 <body>
 <header>
+<div class="container">
+  <div class="header-content">
+    <nav class="header-menu">
+      <ul class="header-menu-list">
+        <li class="header-menu-list"><a class="header-menu__link" href="#experience">experience</a></li>
+        <li class="header-menu-list"><a class="header-menu__link" href="#courses">courses</a></li>
+        <li class="header-menu-list"><a class="header-menu__link" href="#education">Education</a></li>
+        <li class="header-menu-list"><a class="header-menu__link" href="#projects">Projects</a></li>
+        <li class="header-menu-list"><a class="header-menu__link" href="#lng">languages</a></li>
+      </ul>
 
+    </nav>
+  </div>
+</div>
 </header>
 <div class="container">
   <main class="main-content">
@@ -84,7 +97,7 @@
         </ul>
       </section>
       <div class="bubble">
-        <span class="info main-title">Languages:</span>
+        <span id="lng" class="info main-title">Languages:</span>
         <div class="info-bubble">
           <div class="bubble-content">
             <p class="highlight"><strong>English:</strong> A2</p>
@@ -104,7 +117,7 @@
           <li><p>I am an expert in visually interpreting information using mind maps and helping others better understand and retain information.</p></li>
         </ul>
         <section class="experience">
-          <h2 class="right-title">Experience</h2>
+          <h2 id="experience" class="right-title">Experience</h2>
           <div class="timeline">
             <div class="left-tl-content">
               <h5 class="tl-company">SoftBel</h5>
@@ -120,7 +133,7 @@
           </div>
         </section>
         <section class="education">
-          <h2 class="right-title">Education &amp; Qualifications</h2>
+          <h2 id="education" class="right-title">Education &amp; Qualifications</h2>
           <div class="timeline">
             <div class="left-tl-content">
               <h5 class="tl-company">RS School</h5>
@@ -165,7 +178,7 @@
             </div>
           </div>
           <section class="courses">
-            <h2 class="right-title">Courses</h2>
+            <h2 id="courses" class="right-title">Courses</h2>
             <ol class="rounded">
               <li>
                 <a href="https://www.linkedin.com/learning/certificates/a286742208522c52b2356ad9083fa89c9834ffafc1d32680a1d17e359332582b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BK3LRkJQAT9eRv%2BXWuMx1BA%3D%3D">LinkedIn
@@ -200,8 +213,8 @@
   </code>
 </pre>
           </section>
-          <section class="courses">
-            <h2 class="right-title">Courses</h2>
+          <section id="projects" class="Projects">
+            <h2 class="right-title">Projects</h2>
             <ol class="rounded">
               <li>
                 <a href="https://whowouldwin.github.io/PaymentForm/">BotTee: Deploy</a> A project simulating payment and shipping (API, data management, testing )</li>
