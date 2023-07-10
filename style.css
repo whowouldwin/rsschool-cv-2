@@ -77,6 +77,7 @@
     align-items: center;
     grid-template-columns: repeat(2, 1fr);
     color: var(--color-main);
+    position: relative;
 }
 .contact-info ul a {
     text-decoration: none;
@@ -87,11 +88,28 @@
     color: var(--color-main);
     letter-spacing: 1px;
 }
+.contact-info ul a::after {
+    content: 'Click me';
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+    opacity: 0;
+    color: #fff;
+    background-color: #000;
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: opacity 0.3s ease;
+}
+
+.contact-info ul a:hover::after {
+    opacity: 1;
+}
 .contact-info ul li i {
     padding-right: 1rem;
     font-size: 2rem;
     color: var(--color-main);
 }
+
 .fa-discord {
     background-image: url("./lng/discord-mark-blue.svg");
     background-repeat: no-repeat;
@@ -235,27 +253,58 @@
     padding-left: 1rem;
     border-radius: 50px;
 }
-
-
-
-
-
-
-.header__container {
+.header-content {
     position: relative;
-    width: 100%;
+    width: 80%;
+    height: 4rem;
+    margin: 1rem auto;
     display: flex;
     align-items: center;
     background-color: var(--color-hamburger);
     text-transform: uppercase;
 }
-.header__photo {
-    background-image: url("./lng/avatar.png");
-    filter: contrast(110%);
-    background-size: cover;
-    background-position: center;
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    background-color: var(--color-additional);
+.main-content, .header-content {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header-menu {
+    display: flex;
+    align-items: center;
+}
+.header-menu-list {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    color: var(--color-main);
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.header-menu__link {
+    text-decoration: none;
+    color: var(--color-main);
+    margin-right: 1rem;
+}
+.header-menu__link:hover {
+    text-decoration: underline;
+    color: #00cd85;
+}
+.footer-content {
+    position: relative;
+    width: 80%;
+    height: 4rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    background-color: var(--color-hamburger);
+    text-transform: uppercase;
+    justify-content: space-around;
+}
+.footer-img {
+    width: 50%;
+}
+.footer-logo {
+    width: 40%;
+}
+.footer-item {
+    color: var(--color-additional-light);
 }
