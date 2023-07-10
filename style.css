@@ -288,3 +288,23 @@
     text-decoration: underline;
     color: #00cd85;
 }
+.footer-content {
+    position: relative;
+    width: 80%;
+    height: 4rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    background-color: var(--color-hamburger);
+    text-transform: uppercase;
+    justify-content: space-around;
+}
+.footer-img {
+    width: 50%;
+}
+.footer-logo {
+    width: 40%;
+}
+.footer-item {
+    color: var(--color-additional-light);
+}
